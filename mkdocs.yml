@@ -1,4 +1,6 @@
-site_name: Re-Quest RuleboOk
+site_name: Re-Quest Rulebook
+site_url: https://requesttheboardgame.github.io/Rulebook/
+
 theme:
   name: material
   logo: images/logo.png
