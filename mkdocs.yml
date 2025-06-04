@@ -1,0 +1,41 @@
+site_name: Re-Quest RuleboOk
+theme:
+  name: material
+  logo: images/logo.png
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+  font:
+    text: Lora
+    code: Roboto Mono
+extra_css:
+  - styles/extra.css
+  - styles/toc-only.css
+  - styles/custom.css
+markdown_extensions:
+  - pymdownx.extra
+
+
+extra_javascript:
+  - javascripts/replace-terms.js
+use_directory_urls: false
+
+nav:
+  - Home: home.md
+  - Base Setup: 
+       - Setup: base-setup.md
+       - Tiles: tiles.md
+       - Loot: loot.md
+  - Turns:
+    - Player Turns: player-turns.md
+    - Minion Encounters: minion-encounters.md
+  - Equipment: equipment.md
+  - Advanced Classes:
+    - Summoner: summoner.md
+    - Alchemist: alchemist.md
+  - Bosses:
+      - Tutorial (Big Slime): bosses/big-slime/tutorial.md
+      - Lich: bosses/lich/lich.md
+  - Icons: Icons.md
+ 

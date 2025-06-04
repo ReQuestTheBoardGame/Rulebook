@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Lora&display=swap');
+
+/* Theme color palette */
+:root {
+  --md-primary-fg-color:#9c8053; /* soft light blue accent */
+  --md-accent-fg-color: #9c8053;
+  --md-default-bg-color: #CCA86D;
+  --md-text-color: #2c2c2c;
+
+}
+
+/* Main font */
+body, .md-typeset {
+  font-family: 'Lora', serif;
+}
+
+/* Background: wood texture */
+body {
+  background: url('../images/parchment-bg.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Remove white gradient background behind "Re-Quest RuleBook" site title */
+.md-nav__title {
+  background:  #CCA86D !important;
+  box-shadow: none !important;
+}
+
+
+/* Soft glowing title */
+.md-header__title {
+  font-family: 'Cinzel Decorative', cursive;
+  color: #80dfff !important; /* light cyan/sky blue */
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.8em;
+  width: 100%;
+  justify-content: center;
+  text-shadow:
+    0 0 1px #80dfff,
+    0 0 2px #80dfff;
+}
+
+/* Dark header/nav bar */
+.md-header {
+  background-color: #2e1e0f;
+ 
+}
+
+/* Logo size */
+.md-header__button.md-logo img {
+  max-height: 3rem;
+  margin-right: 0.5rem;
+}
+
+}
