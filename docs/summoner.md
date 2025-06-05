@@ -2,8 +2,8 @@
 The Summoner is a magic-based subclass that focuses on minion control. Playing this class revolves around the “acquire” mechanic to unlock your minion slots.
 
 [<p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/images/equipment/slime rod.png" alt="Slime Rod" width="150">
-</p>](http://127.0.0.1:8000/equipment.html#slime-rod)
+  <img src="/Rulebook/images/equipment/slime rod.png" alt="Slime Rod" width="150">
+</p>](/Rulebook/equipment.html#slime-rod)
 ### **Unlocking Summoning Slots**
 Cards like Slime Rod include an acquire effect that grants +1 minion slot when purchased. You may increase your minion capacity up to a maximum of 5. Each time you acquire a card that grants a minion slot, your capacity increases by one.
 

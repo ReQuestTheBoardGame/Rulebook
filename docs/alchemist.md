@@ -21,7 +21,7 @@ Potions are one-time-use items and do not enter your deck. Instead, they stay in
 Shuffle all collected ingredients together and place them face down in your play area.
 
  <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/images/equipment/alchemist satchel.png" alt="Alchemist Satchel" width="150">
+  <img src="/Rulebook/images/equipment/alchemist satchel.png" alt="Alchemist Satchel" width="150">
 </p> 
 
 
@@ -51,7 +51,7 @@ stamina;50 **Stamina Elixir:** Draw 3 cards at random from your discard pile.
 
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/images/potions/foresight.png" alt="Foresight Potion" width="50">
+  <img src="/Rulebook/images/potions/foresight.png" alt="Foresight Potion" width="50">
 </p>  **Potion of Foresight:** Scry 2- Look at the next two tiles, event cards, minion room draws, or ingredient cards. You may leave them or place them at the bottom of their piles.
 
 &nbsp;

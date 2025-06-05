@@ -2,9 +2,9 @@
 
 /* Theme color palette */
 :root {
-  --md-primary-fg-color:#9c8053; /* soft light blue accent */
-  --md-accent-fg-color: #9c8053;
-  --md-default-bg-color: #CCA86D;
+  --md-primary-fg-color:#3f3a40; /* soft light blue accent */
+  --md-accent-fg-color: #3f3a40;
+  --md-default-bg-color: #3f3a40;
   --md-text-color: #2c2c2c;
 
 }

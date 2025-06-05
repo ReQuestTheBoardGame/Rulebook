@@ -4,12 +4,12 @@
 
 ### **The Lich Set Up:**
 
-Follow [Base Set Up](http://127.0.0.1:8000/base-setup.html), then proceed here.
+Follow [Base Set Up](/Rulebook/base-setup.html), then proceed here.
 *Please note this boss uses tombstone tile corners and comes with its own unique tiles.*
 
-- [**Event Deck:**](http://127.0.0.1:8000/bosses/lich/lich.html#event-types) Shuffle the event deck and place it in the play area. The event deck has 20 cards (1 for each turn) and will always be drawn as the first action of each turn. These events will trigger immediately, and automatically resolve at the end of the turn unless otherwise noted.
+- [**Event Deck:**](/Rulebook/bosses/lich/lich.html#event-types) Shuffle the event deck and place it in the play area. The event deck has 20 cards (1 for each turn) and will always be drawn as the first action of each turn. These events will trigger immediately, and automatically resolve at the end of the turn unless otherwise noted.
 
-- [**Boss Tracker:**](http://127.0.0.1:8000/bosses/lich/lich.html#boss-tracker) Arrange the Boss Tracker on the side of the play area. The tracker starts with 0 and ends with 10. Use a tombstone card tombstone; to move along the tracker. Start at 0.
+- [**Boss Tracker:**](/Rulebook/bosses/lich/lich.html#boss-tracker) Arrange the Boss Tracker on the side of the play area. The tracker starts with 0 and ends with 10. Use a tombstone card tombstone; to move along the tracker. Start at 0.
 
 trackerblank;50 litchdrain;50 trackerblank;50 beckoning;50 trackerblank;50 reapersstride;50 trackerblank;50 greatrevival;50 trackerblank;50 withering;50 rip;50 
 
@@ -38,7 +38,7 @@ Death Riders are unlike other minions of the Lich. Death Riders are the sentries
 Once in the card sleeve, use the dry erase marker to write the values on the Death Rider card, as found in the table → 
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/deathrider.png" alt="Death Rider" width="200">
+  <img src="/Rulebook/bosses/lich/deathrider.png" alt="Death Rider" width="200">
 </p>
 
 | Players | sword;   |   shield; |  Health;  |
@@ -58,7 +58,7 @@ The shaman is a loyal minion to the lich, helping to channel the Lich's power. E
 ### **Shaman Main Card**
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/shaman.png" alt="Shaman" width="200">
+  <img src="/Rulebook/bosses/lich/shaman.png" alt="Shaman" width="200">
 </p>
 
 | Players | sword;   |   Health; |
@@ -107,7 +107,7 @@ Each turn will begin with players revealing an event card from the deck. All eve
 <a id="Grip of the Grave"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/eventdeck/gripofthegrave.png" alt="Grip of the Grave" width="200">
+  <img src="/Rulebook/bosses/lich/eventdeck/gripofthegrave.png" alt="Grip of the Grave" width="200">
 </p>
 
 **Grip of the Grave:**  Skeletal hands burst up out of the floor aiming to hold you down and make you become one with the dungeon. Players evade Grip of the Grave using a wild; action, either stored, or made with actions from their hand. If players do not have a wild; to evade, they are held down and lose all turns until they are recovered. 
@@ -121,7 +121,7 @@ Each turn will begin with players revealing an event card from the deck. All eve
 <a id="Bone Upheaval"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/eventdeck/boneupheaval.png" alt="Bone Upheaval" width="200">
+  <img src="/Rulebook/bosses/lich/eventdeck/boneupheaval.png" alt="Bone Upheaval" width="200">
 </p>
 
 **Bone Upheaval:**  The dungeon terrain becomes more difficult to traverse, with sharp bone splinters spiking outwards. This turn requires 2 boot; to move one room. Players may choose to move with one boot; per room, losing 3 heart; per room entered. **The tracker will increase by 1 for each Death Rider in the Dungeon or Boss Room.**
@@ -131,7 +131,7 @@ Each turn will begin with players revealing an event card from the deck. All eve
 <a id="Skeleton Surge"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/eventdeck/skeletonsurge.png" alt="Skeleton Surge" width="200">
+  <img src="/Rulebook/bosses/lich/eventdeck/skeletonsurge.png" alt="Skeleton Surge" width="200">
 </p>
 
 **Skeleton Surge:**  The Lich’s power boosts his minions, giving them extra strength this turn. All attacking minions gain 2 additional damage. At the end of the turn the tracker will increase by 1 for each player with 5 health or less.
@@ -143,7 +143,7 @@ Each turn will begin with players revealing an event card from the deck. All eve
 <a id="Shaman"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/eventdeck/edshaman.png" alt="Shaman" width="200">
+  <img src="/Rulebook/bosses/lich/eventdeck/edshaman.png" alt="Shaman" width="200">
 </p>
 
 **Shaman:**  A dedicated minion of the Lich, the Shaman will keep the tracker increasing by 1 at the end of each turn until defeated. The Shaman spawns at a tombstone, automatically increasing the tracker by 1. If there is more than 1 tombstone, use a dice to determine which one it will spawn at.
@@ -154,7 +154,7 @@ Each turn will begin with players revealing an event card from the deck. All eve
 <a id="Reaper's Stride"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/eventdeck/edreapersstrike.png" alt="Reaper's Stride" width="200">
+  <img src="/Rulebook/bosses/lich/eventdeck/edreapersstrike.png" alt="Reaper's Stride" width="200">
 </p>
 
 **Reaper's Stride:**  The tracker increases 1. All Death Riders gain swiftness, increasing their movement by 1 this turn (this action is stackable with the tracker).
@@ -166,7 +166,7 @@ Each turn will begin with players revealing an event card from the deck. All eve
 <a id="Domain"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/eventdeck/domain.png" alt="Domain" width="200">
+  <img src="/Rulebook/bosses/lich/eventdeck/domain.png" alt="Domain" width="200">
 </p>
 
 **Domain:**  A series of unfortunate events, the tracker will increase by 1. The tracker will also increase by 1 for each player that has 5 health or less. The tracker will also increase by 1 for each Death Rider in the Dungeon or Boss Room.
@@ -191,7 +191,7 @@ Every 4 turns, and every turn in the Boss Room, the Lich’s tracker will “unl
  <a id="Lich's Drain"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/tracker/litchdrain.png" alt="Lich's Drain" width="100">
+  <img src="/Rulebook/bosses/lich/tracker/litchdrain.png" alt="Lich's Drain" width="100">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -205,7 +205,7 @@ Every 4 turns, and every turn in the Boss Room, the Lich’s tracker will “unl
  <a id="Beckoning"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/tracker/beckoning.png" alt="Beckoning" width="100">
+  <img src="/Rulebook/bosses/lich/tracker/beckoning.png" alt="Beckoning" width="100">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -219,7 +219,7 @@ Every 4 turns, and every turn in the Boss Room, the Lich’s tracker will “unl
  <a id="Reaper's Stride"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/tracker/reapersstride.png" alt="Reaper's Stride" width="100">
+  <img src="/Rulebook/bosses/lich/tracker/reapersstride.png" alt="Reaper's Stride" width="100">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -233,7 +233,7 @@ Every 4 turns, and every turn in the Boss Room, the Lich’s tracker will “unl
  <a id="Great Revival"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/tracker/greatrevival.png" alt="Great Revival" width="100">
+  <img src="/Rulebook/bosses/lich/tracker/greatrevival.png" alt="Great Revival" width="100">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -247,7 +247,7 @@ Every 4 turns, and every turn in the Boss Room, the Lich’s tracker will “unl
 <a id="Withering"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/tracker/withering.png" alt="Withering" width="100">
+  <img src="/Rulebook/bosses/lich/tracker/withering.png" alt="Withering" width="100">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -261,7 +261,7 @@ Every 4 turns, and every turn in the Boss Room, the Lich’s tracker will “unl
  <a id="RIP"></a>
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/tracker/rip.png" alt="RIP" width="100">
+  <img src="/Rulebook/bosses/lich/tracker/rip.png" alt="RIP" width="100">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -277,7 +277,7 @@ Every 4 turns, and every turn in the Boss Room, the Lich’s tracker will “unl
 ## **Mini Boss: The Wraith**
 
 <p style="float: left; margin: 0 1em 1em 0;">
-  <img src="/bosses/lich/wraith.png" alt="Shaman" width="200">
+  <img src="/Rulebook/bosses/lich/wraith.png" alt="Shaman" width="200">
 </p>
 
 | Players | Health; |
@@ -307,7 +307,7 @@ Flip over 10 tiles and arrange them as so, with the Lich in the center of the ro
 
 
 <p align="center">
-  <img src="/bosses/lich/brlich.png" alt="Lich Boss Room" width="400" />
+  <img src="/Rulebook/bosses/lich/brlich.png" alt="Lich Boss Room" width="400" />
 </p>
 
 ### **Boss Tracker** 
