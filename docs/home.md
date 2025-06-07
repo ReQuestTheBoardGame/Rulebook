@@ -6,7 +6,7 @@
 Thank you for play-testing our game, we have played it hundreds of times and need a fresh perspective. Please leave us a review so we know what you liked and what you would like to see improvements with! 
 
 Please submit feedback with our [online questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfWew6k4cCX-ZpNv6WRmzdel9AiCaKONWEvJv0i6ITjx0MtJg/viewform?usp=header)
-  Also, you can calculate your final [xp](http://127.0.0.1:8000/xp.html) using our formula. Sending us a picture of this sheet filled out would be extremely helpful to us. Thanks in advance!
+
 
 For additional questions while playing, please check out our [YouTube channel: Re-Quest the Board Game](https://www.youtube.com/@Re-QuestTheBoardGame) or feel free to email us directly at requesttheboardgame@gmail.com
 
