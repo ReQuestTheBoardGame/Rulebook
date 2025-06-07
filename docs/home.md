@@ -17,5 +17,4 @@ For additional questions while playing, please check out our [YouTube channel: R
 **Re-Quest Objective:**
 In Re-Quest, players embark on a perilous journey into the depths of a dark and treacherous dungeon. Their goal is to explore the labyrinthine corridors, confront menacing monsters, gather valuable loot, and ultimately defeat the dreaded boss that lurks in the deepest chamber. Victory awaits those who demonstrate cunning strategy, cooperative teamwork, and fearless determination. Players have 20 turns to find the boss and defeat it. 
 
-You may start with the tutorial big slime cBigSlime;40;/Rulebook/bosses/big-slime/tutorial  or a main boss clich;40;/Rulebook/bosses/lich/lich
-*We recommend the tutorial **ONLY** if you have never played a deck-builder/tile explorer before.*
+You may start with the tutorial big slime or the lich
