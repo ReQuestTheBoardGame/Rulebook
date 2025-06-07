@@ -1,0 +1,7 @@
+
+
+.md-typeset table th,
+.md-typeset table td {
+  background-color: #CCA86D;
+  border: 1px solid var(--md-text-color); /* Assuming this is your text color */
+}
