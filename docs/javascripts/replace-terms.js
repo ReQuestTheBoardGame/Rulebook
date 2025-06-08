@@ -90,6 +90,10 @@ document.addEventListener("DOMContentLoaded", function () {
         "samauri": `${BASE_URL}/images/players/samauri.png`,
         "wizard": `${BASE_URL}/images/players/wizard.png`,
 
+        
+        //loot
+        "lasso": `${BASE_URL}/images/loot/lasso.png`,
+        
         // Potions
         "bottledluck": `${BASE_URL}/images/potions/bottledluck.png`,
         "cbpotion": `${BASE_URL}/images/potions/cbpotion.png`,
