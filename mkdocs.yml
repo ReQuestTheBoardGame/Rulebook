@@ -37,7 +37,7 @@ nav:
     - Summoner: summoner.md
     - Alchemist: alchemist.md
   - Bosses:
-      - Tutorial (Big Slime): bosses/big-slime/tutorial.md
+      - Big Slime (Tutorial): bosses/big-slime/big-slime.md
       - Lich: bosses/lich/lich.md
   - Icons: Icons.md
  
