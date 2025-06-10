@@ -93,6 +93,12 @@ document.addEventListener("DOMContentLoaded", function () {
         
         //loot
         "lasso": `${BASE_URL}/images/loot/lasso.png`,
+        cloot: `${BASE_URL}/images/loot/cloot.png`,
+        jestersblessing: `${BASE_URL}/images/loot/jestersblessing.png`,
+        lasso: `${BASE_URL}/images/loot/lasso.png`,
+        pocketportal: `${BASE_URL}/images/loot/pocketportal.png`,
+        secretpassage: `${BASE_URL}/images/loot/secretpassage.png`,
+        tallysticks: `${BASE_URL}/images/loot/tallysticks.png`,
         
         // Potions
         "bottledluck": `${BASE_URL}/images/potions/bottledluck.png`,
