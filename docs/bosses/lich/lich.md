@@ -302,6 +302,19 @@ Upon defeating him, decrease the tracker 1 and players receive one loot card eac
 
 ## Lich Boss Encounter:
 
+clitch;300
+
+| Players | sword;   |   Health; |
+|---------|:--------:|:---------:|
+| 1       |    2     |     15    | 
+| 2       |    4     |     30    |
+| 3       |    6     |     45    | 
+| 4       |    8     |     60    | 
+
+
+
+
+
 ### **Room Setup** 
 Flip over 10 tiles and arrange them as so, with the Lich in the center of the room → 
 
@@ -311,7 +324,7 @@ Flip over 10 tiles and arrange them as so, with the Lich in the center of the ro
 </p>
 
 ### **Boss Tracker** 
-Upon entering the room, the tracker increases by 3 immediately. The Boss Tracker will Unleash each turn in the Boss Room. If Unleash has already occurred on the turn you enter the Boss Room, the tracker will only increase by 3, waiting to Unleash until the start of next turn. The Lich does not move and has a set amount of health and damage, scalable to the amount of players: 15 health per player & 2 damage per player (only to be dealt when you are on his tile).
+Upon entering the room, the tracker increases by 3 immediately. The Boss Tracker will Unleash each turn in the Boss Room. If Unleash has already occurred on the turn you enter the Boss Room, the tracker will only increase by 3, waiting to Unleash until the start of next turn. The Lich does not move and has a set amount of health and damage, scalable to the playes (only to be dealt when you are on his tile).
 
 ### **Tombstones:**
 **Spawning:** Roll a D4 each time something is spawned into the room. The number will indicate which tombstone the creature will spawn at. 
