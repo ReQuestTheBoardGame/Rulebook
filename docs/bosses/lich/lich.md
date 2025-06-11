@@ -302,7 +302,7 @@ Upon defeating him, decrease the tracker 1 and players receive one loot card eac
 
 ## Lich Boss Encounter:
 
-clitch;300;
+clich;300;
 
 | Players | sword;   |   Health; |
 |---------|:--------:|:---------:|
