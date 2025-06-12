@@ -4,6 +4,8 @@
 </p>
 ### **How to Play the Tutorial — Big Slime Boss** 
 
+<img src="/Rulebook/bosses/big-slime/boss-area.png" alt="boss-area" style="width:100%; max-width:800px;">
+
 **Estimated Time: 30 minutes.** Recommended **only** if all players are new to the game, or if a player has never played a deck-builder before (Aeon's End, Clank!, Dominion, etc).
 
 This tutorial introduces players to dungeon mechanics, encounters, and boss battles. Follow the [Base Set Up](http://127.0.0.1:8000/base-setup.html) first, then proceed below.

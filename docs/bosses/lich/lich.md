@@ -4,6 +4,10 @@
 
 ### **The Lich Set Up:**
 
+
+<img src="/Rulebook/bosses/lich/boss-area.png" alt="boss-area" style="width:100%; max-width:800px;">
+
+
 Follow [Base Set Up](/Rulebook/base-setup.html), then proceed here.
 *Please note this boss uses tombstone tile corners and comes with its own unique tiles.*
 
