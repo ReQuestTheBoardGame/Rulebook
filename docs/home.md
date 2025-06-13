@@ -2,9 +2,10 @@
 <img src="/Rulebook/images/paper%20header.png" alt="Paper Header" style="width:100%; max-width:800px;">
 #
 
-**Dear Players,**
+**Welcome adventurers,**
 
-Thank you for play-testing our game, we have played it hundreds of times and need a fresh perspective. Please leave us a review so we know what you liked and what you would like to see improvements with! 
+You’ve discovered the early stages of **Re-Quest: The Board Game**,currently in active development. While we’ve played the game extensively ourselves, we need **brave testers like you** to help refine and shape the final experience.
+[play test here](/Rulebook/play-testing.html)
 
 **Players:** 1-4	
 **Play Time:** 60-90 minutes	
