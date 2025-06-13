@@ -40,4 +40,7 @@ nav:
       - Big Slime (Tutorial): bosses/big-slime/big-slime.md
       - Lich: bosses/lich/lich.md
   - Icons: Icons.md
- 
+  - Play Testing: 
+      - PDFs: pdf.md
+      - Tabletop Simulater: tts.md
+  

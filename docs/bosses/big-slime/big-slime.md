@@ -2,9 +2,34 @@
 <p align="center">
   <img src="cbigslime.png" alt="Big Slime Boss" width="200" />
 </p>
+
+
+<div style="border: 1px solid #ccc; padding: 16px; border-radius: 12px; max-width: 600px; background-color: #CCA86D; font-family: sans-serif; color: #000;">
+  <h2 style="margin-bottom: 12px; font-size: 1.5em;">Big Slime Gameplay Preview</h2>
+  
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe 
+      src="https://www.youtube.com/embed/OWa-7d6t01c" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+</div>
+
+
+
+
+
+
+
+
 ### **How to Play the Tutorial — Big Slime Boss** 
 
 <img src="/Rulebook/bosses/big-slime/boss-area.png" alt="boss-area" style="width:100%; max-width:800px;">
+
+[YouTube Big Slime](
 
 **Estimated Time: 30 minutes.** Recommended **only** if all players are new to the game, or if a player has never played a deck-builder before (Aeon's End, Clank!, Dominion, etc).
 

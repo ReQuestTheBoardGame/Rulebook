@@ -15,3 +15,5 @@ In Re-Quest, players embark on a perilous journey into the depths of a dark and 
 
 You may start with the tutorial big slime cBigSlime;40;/Rulebook/bosses/big-slime/big-slime or a main boss clich;40;/Rulebook/bosses/lich/lich
 *We recommend the tutorial **ONLY** if you have never played a deck-builder/tile explorer before.
+
+here are youtube page for video tutorial [@Re-Quest The Board Game](https://www.youtube.com/@Re-QuestTheBoardGame)

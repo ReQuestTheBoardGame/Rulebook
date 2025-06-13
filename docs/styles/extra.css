@@ -3,10 +3,9 @@
 /* Theme color palette */
 :root {
   --md-primary-fg-color:#3f3a40; /* soft light blue accent */
-  --md-accent-fg-color: #3f3a40;
+  --md-accent-fg-color: #65c7ff;
   --md-default-bg-color: #3f3a40;
   --md-text-color: #2c2c2c;
-
 }
 
 /* Main font */
@@ -26,7 +25,6 @@ body {
   box-shadow: none !important;
 }
 
-
 /* Soft glowing title */
 .md-header__title {
   font-family: 'Cinzel Decorative', cursive;
@@ -44,7 +42,6 @@ body {
 /* Dark header/nav bar */
 .md-header {
   background-color: #2e1e0f;
- 
 }
 
 /* Logo size */
@@ -53,4 +50,17 @@ body {
   margin-right: 0.5rem;
 }
 
+/* Mobile Table of Contents background and text colors */
+@media (max-width: 768px) {
+  .md-nav, 
+  .md-nav__list, 
+  .md-sidebar {
+    background-color: #CCA86D !important;
+    color: #000 !important;
+  }
+
+  .md-nav a, 
+  .md-nav__link {
+    color: #000 !important;
+  }
 }

@@ -3,6 +3,20 @@
 ### **Simultaneous Play**
 Each round, all players take their turns simultaneously. During a turn, players may perform various actions such as moving, attacking, healing, defending, and buying. At the start of the game, each player begins with all 10 cards in hand. Each turn, they must play 5 cards. The remaining 5 are used on the following turn. Once all 10 cards have been played, the full set is returned to the player’s hand. Discarded cards do not return until the full cycle is complete. Cards cannot be carried over between turns—any unplayed cards must be discarded at the end of the turn.
 
+<div style="border: 1px solid #ccc; padding: 16px; border-radius: 12px; max-width: 600px; background-color: #CCA86D; font-family: sans-serif; color: #000;">
+
+  
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe 
+      src="https://www.youtube.com/embed/flSv0EV0Ltw?si=gJriBwcaDlzlkJE7
+" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+</div>
 
 ### **Actions**
 - boot; Boots allow movement to adjacent rooms or through secret passageways. 1boot; = 1 movement

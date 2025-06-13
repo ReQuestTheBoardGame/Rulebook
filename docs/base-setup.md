@@ -7,14 +7,38 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-**Market:** [Equipment Cards](http://127.0.0.1:8000/equipment.html) are arranged in rows by cost. Equipment cards are chosen by the players as a group, choosing 12 different sets of equipment cards. For first time players, we suggest using the four basic upgrade cards (shown below), plus 8 additional equipment card types according to interest (swords/shields, etc). Each set of cards should have 6 copies.
 
-	
+
+
+
+
+<div style="border: 1px solid #ccc; padding: 16px; border-radius: 12px; max-width: 600px; background-color: #CCA86D; font-family: sans-serif; color: #000;">
+
+  
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe 
+      src="https://www.youtube.com/embed/qPTBYcHglkA?si=gvp0M_mWX2lxGhrL
+" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+</div>
+
+
+**Market:** [Equipment Cards](http://127.0.0.1:8000/equipment.html) are arranged in rows by cost. Equipment cards are chosen by the players as a group, choosing 12 different sets of equipment cards. For first time players, we suggest using the four basic upgrade cards (shown below), plus 8 additional equipment card types according to interest (swords/shields, etc). Each set of cards should have 6 copies.
 	
 		
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; dshield;100 &nbsp;&nbsp; &nbsp;&nbsp; dboot;100 &nbsp;&nbsp; &nbsp;&nbsp; dsword;100 &nbsp;&nbsp; &nbsp;&nbsp; dmagic;100 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
 
 **Resources:**
 A full set of dice is included. Dice should be set in the game area. Play-testers who do not have these dice on hand can download an app to simulate. Dice are included on TTS. 
