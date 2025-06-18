@@ -1,4 +1,7 @@
-# Playtesting
+<p align="center">
+  <img src="PlayTestPic.png" alt="plattest Boss" width="200" />
+</p>
+
 
 ##  Choose How You Want to Play
 
