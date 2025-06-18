@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PlayTestPic.png" alt="plattest Boss" width="200" />
+  <img src="PlayTestPic.png" alt="PlatTestPic" width="200" />
 </p>
 
 
