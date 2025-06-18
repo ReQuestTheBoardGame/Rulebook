@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PlayTestPic.png" alt="PlatTestPic" width="200" />
+  <img src="images/PlayTestPic.png" alt="PlatTestPic" width="200" />
 </p>
 
 
